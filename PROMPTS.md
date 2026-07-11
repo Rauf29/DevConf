@@ -1,0 +1,1 @@
+i want you to design me a section for a landing page i have already designed header,hero,Meet the Speakers Section,Secure Your Spot (Pricing) Section . design me a section it could be Sponsors,  Venue, FAQ, Hackathon Details, Past Highlights, Job Board . so i need any of them 
